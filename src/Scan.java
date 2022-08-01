@@ -28,5 +28,6 @@ public class Scan {
         } else{
           System.out.println("El Estudiante: " + Estudiante + "Reprovo con: " + promedio);
         }
+        System.out.println("Gracias: ");
     }
 }
